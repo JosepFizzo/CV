@@ -1,165 +1,176 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+title: MINYU Gao's CV
+pdf: true
 ---
+# __高旻昱__
 
-# Wode **Ni**
+<div id="webaddress">
+<i class="fi-telephone" style="margin-left:1em"></i>
+<a style="margin-left:0.5em">+86-13661461891</a>
+<i class="fi-mail" style="margin-left:1em"></i>
+<a href="minyu.gao@outlook.com" style="margin-left:0.5em">minyu.gao@outlook.com</a>
+<i class="fi-male-female" style="margin-left:1em"></i>
+<a style="margin-left:0.5em">男</a>
+<i class="fi-home" style="margin-left:1em"></i>
+<a style="margin-left:0.5em">上海</a>
+</div>
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
+## 教育经历
 
-{% include cv-contact.html %}
-
-## Education
-
-### **Carnegie Mellon University** `2018.9 -`
-
+### __瑞士联邦理工（洛桑）EPFL__ `2013.9 - 2016.4`
 ```
-Pittsburgh, PA
+瑞士，洛桑
 ```
+- 计算机科学和生物医学 Master of Science
+- 机器学习，计算机图像视觉，数字信号处理，深度学习
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
+### __上海交通大学__ `2009.9 - 2013.6`
 ```
-New York, NY
+中国，上海
 ```
+- 机械工程 Bachelor of Science
+- 生物力学，优化理论，计算机仿真
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+## 工作经历简述
 
-### **Dickinson College** `2013.9 - 2016.5`
+### __上海翎腾智能科技有限公司__ [上海] `2019.4 - now`
+_人工智能算法负责人 & 技术团队执行负责人_<br>
 
-```
-Carlisle, PA
-```
+* 负责多语言智能文本识别系统内多种功能模块的设计开发
+* 负责技术团队相关项目管理
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+### __上海第五区科技有限公司__ [上海] `2016.5 - 2019.4`
+_算法负责人_<br>
 
-## Publications
+* 负责多项可穿戴嵌入式设备算法设计和研发
+* 算法技术顾问（2017.12-2018.7）
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+### __上海帝仪科技有限公司__ [上海] `2017.6 - 2018.7`
+_算法研究员_<br>
+
+* 负责多项算法研究项目（深度学习，经典机器学习以及数字信号处理）
+
+### __CSEM,瑞士国家微电子研发中心__ [纳沙泰尔,瑞士] `2015.9 - 2016.4`
+_算法研究员(实习 & 硕士毕设)_<br>
+
+* 在长期项目的关键阶段进行研究并成功推动项目至最后阶段。（光生理信号模式识别和机器学习）
+* Directed by Josep Solà I Càros
+
+### __PSA,标志雪铁龙汽车全球研发总部__ [巴黎, 法国] `2015.3 - 2015.9`
+_研发工程师(实习)_<br>
+
+* 独立工作负责汽车人机交互项目的预研发（电生理信号模式识别）
+* 建立一整套完整的从数字信号处理到模式识别的解决方案
 
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
+### __EPFL, Hemodynamics and Cardiovascular Technology Laboratory(LHTC) Lab__ [洛桑，瑞士] `2014.9 - 2015.2`
 _Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+* 对血管瘤CT成像结果进行3D建模并实现病理学计算视觉CNN模型。
+* Directed by Trachet Bram and Nikolaos Stergiopulos
 
+
+### __EPFL, Defitech Chair in Brain-machine Interface(CNBI) Lab__ [洛桑, 瑞士] `2014.3 - 2014.8`
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+* 对脑机接口脑电EEG中可预见性事件异常模式通过RNN模型进行异常识别.
+* Directed by Jose Del R.Millan
 
-## Mentoring
+<br>
 
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021 - Now` <br>
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
----
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+## 工程经验细节 [ 2015 - 2019.4]
 
 
-## Service
+### __人工智能运动生理指标识别检测系统__ `2018,2019 @第五区`
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI 2021, CHI 2022` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+* 独立开发系统三部分核心算法
+	1. 基于Photoplethygraph(PPG)技术的心率变异性水平计算算法，获得与传统ECG技术相同的准确度水平，并集成在嵌入式软件中。
+	2. 基于LSTM的深度学习睡眠线上分析系统，有效甄别各类睡眠过程。 
+	3. 基于嵌入式端的运动员日程运动量水平评估算法
+* 与嵌入式软件团队配合进行嵌入式端算法部署实现。
+* 与后端团队共同定义数据流和数据结构水平，并进行线上分析算法部署实现。
+
+
+### __基于人工神经网络的音频识别__ `2018 @帝仪科技`
+* 基于CNN的音频谱分析和RNN的音频目标识别
+* 建立普适性框架用于算法部门内部其他机器学习任务使用。
+* 负责整个项目的全部开发细节：
+	1. 整理相关音频识别知识和经验，设计数据流
+	2. 设计数据采集实验和标定工程 
+	3. 编写GUI数据采集工具，并指导实验部门进行采集
+	4. 数据预处理过程（数据事件自动标记，基础特征提取）
+	5. 框架选择和本地配置
+	6. 算法核心结构设计
+	7. 制定评估准则并进行参数调整
+	8. 执行线上模型部署
+
+### __可穿戴设备完整算法的系统化设计和集成__ `2016,2017 @第五区`
+
+* 长期作为主要算法工程师，进行可穿戴设备（手环形态）的各类算法的系统化设计。与嵌入式软件工程师紧密合作完成全部算法的集成工作
+* 可穿戴设备内算法主要包括:
+	* 基于多传感器合作下的多场景自动模式识别算法。
+	* 运动场景数据信息化算法: 包括动态长效心率算法，高精度计步步频算法，运动强度水平监控，危险预警算法。
+	* 心率变异性基本算法(基于PPG光电传感器)
+	* 可穿戴设备形态的功能性算法，包括抬腕亮屏和佩戴脱落检测等。
+
+### __非介入式血压模式识别方案__ `2015 @CSEM`
+
+* 核心算法部分基于盲源分离方案(ICA)，获取复杂数字信号中的目标信号部分内容。 
+
+
+### __基于非接触式心电的驾驶员疲劳异常预警系统研发设计__ `2015 @PSA`
+* 独立设计建立实验系统用于采集相关电生理信号，同时进行多个传感器信号比对和选型。
+* 对原始数据进行预处理并设计算法对疲劳异常相关的数据模式进行甄别。 
+
+<br>
+
+## 技能
+
+### __长期使用__
+Tensorflow, Python, Caffe, Keras, Markdown, Matlab,
+
+### __熟悉__
+Python GUI, Shell Script, Git,Pytorch, Mimics, ImageJ, Samba, SSH
+
+### __基础__
+C, Java, R, Hadoop, Scala, Vi, Kaldi.
+
+### __Working OS__
+<i class="fi-monitor" style="margin-left:0em"></i> 
+Opensuse, Centos, Ubuntu
+<i class="fi-social-apple" style="margin-left:1em"></i> macOS 
+<i class="fi-social-windows" style="margin-left:1em"></i> Windows 10 
+
+
+##  学术期间获奖与论文
+
+* 上海交大优秀奖学金 `2011,2012`
+* 上海交大三好学生 (Top 5%) `2012`
+* 上海交大机械与动力工程学院优秀学生 (Top 10%) `2012`
+
+Zhou Wenxuan, Wang Ming,__Gao Minyu__, Luo Yun,_”Design of a High Performance Stent With Asymmetric Struc- tures”, Journal of Medical Biomechanics, ISSN:1004-7220, 03/2012._
+
+
+
+## 语言
+
+__中文:__ 母语
+
+__英文:__ 专业熟练，工作常用语言（听说读写）
+
+__法文:__ 基础，仅日常阅读
+
+
+## 爱好
+<i class="fi-social-dribbble" style="margin-left:0em"></i>
+网球, 足球，美式橄榄球
+
+<i class="fi-social-xbox" style="margin-left:0em"></i>
+电子游戏，天文学
+
+<i class="fi-mountains" style="margin-left:0em"></i>
+山间徒步，露营，旅行
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
