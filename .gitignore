@@ -4,3 +4,6 @@ Gemfile.lock
 examples/
 *.pdf
 .sass-cache/
+
+index_copy*
+info_collection.md
