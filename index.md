@@ -13,8 +13,10 @@ pdf: true
 <i class="fi-male-female" style="margin-left:1em"></i>
 <a style="margin-left:0.5em">男</a><br>
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="https://JosepGAO.github.io/chatgpt_jsp" title="chatJSP">访问我的个人chatgpt ➡️ JosepGAO.github.io/chatgpt_jsp</a>
+<a href="https://josepgao.github.io/ChatJSP/" title="chatJSP">访问我的个人chatgpt ➡️ josepgao.github.io/ChatJSP/</a>
 </div>
+
+
 
 ## 教育经历
 
