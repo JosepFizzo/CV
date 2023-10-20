@@ -20,7 +20,7 @@ pdf: true
 
 ## Education
 
-### __École Polytechnique Fédérale de Lausanne (EPFL) __ `2013.9 - 2016.4`
+### __École Polytechnique Fédérale de Lausanne (EPFL)__ `2013.9 - 2016.4`
 ```
 Lausanne, Switzerland
 ```
@@ -37,7 +37,7 @@ Shanghai, China
 ## Brief Work History
 ### __JD Health, Beijing Jingdong Tuoxian Technology Co., Ltd.__ [Beijing] `2023.05 - now`
 _Senior Algorithm Expert_<br>
-*Responsible for the construction and technological R&D of the frontier technology lab of the algorithm team
+* Responsible for the construction and technological R&D of the frontier technology lab of the algorithm team
 
 
 ### __Shanghai Linkedcare Information Technology Co., Ltd.__ [Shanghai] `2022.06 - 2023.05`
@@ -51,7 +51,7 @@ _Head of AI Algorithm & Technical Partner_<br>
 * Responsible for the design and development of various function modules within the deep image recognition system
 * Responsible for the project management of the technical team
 
-### __Shanghai Fizzo Technology Co., Ltd. __ [Shanghai] `2016.5 - 2019.4`
+### __Shanghai Fizzo Technology Co., Ltd.__ [Shanghai] `2016.5 - 2019.4`
 _Head of Algorithm_<br>
 
 * Responsible for the design and R&D of algorithms for multiple wearable embedded devices
@@ -140,10 +140,9 @@ __Coding Skill__
 
 ## Lingteng Work Content Details[ 2019.05 - 2022.05] 
 
-### __Autonomous Perception Robotic Arm Project __ `2022 @Lingteng`
+### __Autonomous Perception Robotic Arm Project__ `2022 @Lingteng`
 
 * Research on the autonomous grasping perception capability of the robot arm based on visual feedback and mechanical feedback.
-
   * Multimodal understanding of visual data, designed to use CLIP and ALBEF multimodal frameworks to complete the retrieval of objects in the video stream.
   * The retrieval comes from the text stream, preparing for the future direct connection to voice control. It connects the cross-modal channels between voice, text, images, and action understanding.
   * Uses the Mujoco framework to build the mechanical simulation environment, and Unreal Engine to build the visual simulation environment.
@@ -151,14 +150,13 @@ __Coding Skill__
   * Studies the transfer problem from the virtual environment to the real environment and designs a complete transfer scheme so that the agent can apply the knowledge learned in the virtual environment in the real environment.
 
 * Robot 3D Vision Function
-
   * Familiar with and follow up on the cutting-edge trends in robot 3D vision R&D (stereoscopic, monocular, until 2022.05).
   * Independently design a complete robot simulation vision environment based on Unreal Engine and deploy reinforcement learning.
   * Complete architecture and design of a brand new visual perception system.
   * Design a brand new architecture based on Transformer and CNN neural network structure, to implement a neural network for processing video stream understanding and data modality transformation.
   * Complete all data chain construction, framework construction, algorithm training, algorithm quantization, and deployment to embedded devices for edge computing, giving the robot visual perception capabilities.
 
-### __ntelligent Reading Learning Device Based on Computer Vision__ `2019,2020,2021 @Lingteng`
+### __Intelligent Reading Learning Device Based on Computer Vision__ `2019,2020,2021 @Lingteng`
 
 * Design a complete computer vision and NLP algorithm framework, complete all algorithm model selection, architecture design, training, lightweight, and deployment to embedded devices for edge computing in the work chain.
 * Full-scene OCR function, supports more than 20 types of printed text, supports handwriting recognition in English and Chinese.
@@ -179,8 +177,6 @@ __Coding Skill__
 ### __Algorithm Applications in Product Commercialization__ `2019,2020,2021 @Lingteng`
 
 * Intelligent Hardware for Reading Learning Scenarios (Desk Lamps, Reading Devices)
-
-
   * Reading assistance, word recognition function
   * Interactive tracking line word sentence recognition function
   * Handwriting process tracking and handwriting content understanding
@@ -228,7 +224,7 @@ __Coding Skill__
 ## Additional Experience Details [ 2015 - 2019.4]
 
 
-### __AI Recognition Detection System Related to Human Movement Physiology __ `2020，2021 @FIZZO`
+### __AI Recognition Detection System Related to Human Movement Physiology__ `2020，2021 @FIZZO`
 
 * VAD Emotion Recognition System Based on Heart Rate Variability
 * Scientific Sleep Detection System Based on Multiple-Lead Detection System
@@ -293,7 +289,7 @@ _Research Assistant_<br>
 
 ## Personal Statement
 
-　　I have been conducting research in deep learning since 2013, focusing on computer vision and multimodal deep learning. At the same time, I have extensive experience in medical imaging and digital signal processing related engineering products. I have worked at the global R&D headquarters of Citroën (PSA) in Paris, France, and the Swiss National Microsystems R&D Center (CSEM). After returning to China, I have been involved in multiple startup projects, always committed to building the bridge between cutting-edge research and product engineering.
+I have been conducting research in deep learning since 2013, focusing on computer vision and multimodal deep learning. At the same time, I have extensive experience in medical imaging and digital signal processing related engineering products. I have worked at the global R&D headquarters of Citroën (PSA) in Paris, France, and the Swiss National Microsystems R&D Center (CSEM). After returning to China, I have been involved in multiple startup projects, always committed to building the bridge between cutting-edge research and product engineering.
 
 I pay close attention to the research progress in the field of artificial intelligence, have rich experience in AI productization, and have the ability to conduct independent research and lead team research and engineering implementation. I have served as the technical leader and algorithm leader in multiple startups, with strong collaboration capabilities, a broad academic research perspective, comprehensive product thinking, and the ability to efficiently collaborate with product teams or CEOs to solve business product problems with appropriate cutting-edge technology and excellent architectural capabilities.
 
