@@ -26,6 +26,7 @@ Lausanne, Switzerland
 ```
 - Master of Science in Computer Science and Biomedical Engineering
 - Deep Learning, Computer Vision, Medical Imaging, Digital Signal Processing, Machine Learning
+
 ### __Shanghai Jiao Tong University__ `2009.9 - 2013.6`
 ```
 Shanghai, China
