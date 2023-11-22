@@ -3,7 +3,7 @@ layout: cv
 title: MINYU Gao's CV
 pdf: true
 ---
-# __GAO MINYU__
+# __高旻昱__
 
 <div id="webaddress">
 <i class="fi-telephone" style="margin-left:1em"></i>
@@ -18,285 +18,243 @@ pdf: true
 
 
 
-## Education
+## 教育经历
 
-### __École Polytechnique Fédérale de Lausanne (EPFL)__ `2013.9 - 2016.4`
+### __瑞士联邦理工（洛桑）EPFL__ `2013.9 - 2016.4`
 ```
-Lausanne, Switzerland
+瑞士，洛桑
 ```
-- Master of Science in Computer Science and Biomedical Engineering
-- Deep Learning, Computer Vision, Medical Imaging, Digital Signal Processing, Machine Learning
-
-### __Shanghai Jiao Tong University__ `2009.9 - 2013.6`
+- 计算机科学和生物医学工程学 Master of Science
+- 深度学习，计算机图像视觉，医疗影像学，数字信号处理，机器学习
+### __上海交通大学__ `2009.9 - 2013.6`
 ```
-Shanghai, China
+中国，上海
 ```
-- Bachelor of Science in Mechanical Engineering
-- Biomechanics, Optimization Theory, Computer Simulation
+- 机械工程 Bachelor of Science
+- 生物力学，优化理论，计算机仿真
+
+## 主要能力概述
+__AI__ 
+	| 多模态 | CV | Bert | LLM |
+
+__工程化__
+	| 数字信号处理 | 边缘计算部署 | 模型轻量化 |
+
+__医疗AI__
+  | 脑机接口 | PPG | ECG | BCG | 心血管医疗影像 | 
+
+__Coding Skill__
+  | Python | Torch | Tensorflow | C/C++ | Linux | Docker | Kubernetes | 
+
+## 工作经历简述
+### __北京京东拓先科技有限公司(京东健康)__ [北京] `2023.05 - now`
+_高级算法专家_<br>
+*负责算法团队前沿技术实验室的建设和技术研发工作
 
 
-## Brief Work History
-### __JD Health, Beijing Jingdong Tuoxian Technology Co., Ltd.__ [Beijing] `2023.05 - now`
-_Senior Algorithm Expert_<br>
-* Responsible for the construction and technological R&D of the frontier technology lab of the algorithm team
+### __上海领健信息科技有限公司__ [上海] `2022.06 - 2023.05`
+_算法负责人_<br>
+* 负责算法团队的技术选型和核心技术研发
+* 负责算法团队相关项管理
 
+### __上海翎腾智能科技有限公司__ [上海] `2019.4 - 2022.06`
+_人工智能算法负责人 & 技术合伙人_<br>
 
-### __Shanghai Linkedcare Information Technology Co., Ltd.__ [Shanghai] `2022.06 - 2023.05`
-_Head of Algorithm_<br>
-* Responsible for the technical selection and core technology R&D of the algorithm team
-* Responsible for the management of related projects of the algorithm team
+* 负责深度图像识别系统内多种功能模块的设计开发
+* 负责技术团队相关项目管理
 
-### __Shanghai Lingteng Intelligent Technology Co., Ltd.__ [Shanghai] `2019.4 - 2022.06`
-_Head of AI Algorithm & Technical Partner_<br>
+### __上海第五区科技有限公司__ [上海] `2016.5 - 2019.4`
+_算法负责人_<br>
 
-* Responsible for the design and development of various function modules within the deep image recognition system
-* Responsible for the project management of the technical team
+* 负责多项可穿戴嵌入式设备算法设计和研发
+* 算法技术顾问（2017.12-2018.7）
 
-### __Shanghai Fizzo Technology Co., Ltd.__ [Shanghai] `2016.5 - 2019.4`
-_Head of Algorithm_<br>
+### __CSEM,瑞士国家微电子研发中心__ [纳沙泰尔,瑞士] `2015.9 - 2016.4`
+_算法研究员_<br>
 
-* Responsible for the design and R&D of algorithms for multiple wearable embedded devices
-
-### __CSEM, Swiss Center for Electronics and Microtechnology__ [Neuchâtel, Switzerland] `2015.9 - 2016.4`
-_Algorithm Researcher_<br>
-
-* Non-invasive blood pressure machine learning solution, successfully promoting a long-term project to the final stage. (Photo-physiological signal pattern recognition and machine learning)
+* 非介入式血压机器学习方案,成功推动长期项目至最后阶段。（光生理信号模式识别和机器学习）
 * Directed by Josep Solà I Càros
 
-### __PSA, Peugeot Citroën Global R&D Headquarters__ [Paris, France] `2015.3 - 2015.9`
-_R&D Engineer_<br>
+### __PSA,标志雪铁龙汽车全球研发总部__ [巴黎, 法国] `2015.3 - 2015.9`
+_研发工程师_<br>
 
-* ndependently responsible for the pre-R&D of the car human-machine interaction project (electrophysiological signal pattern recognition)
-* Established a complete set of solutions from digital signal processing to pattern recognition
+* 独立工作负责汽车人机交互项目的预研发（电生理信号模式识别）
+* 独立设计建立实验系统用于采集相关电生理信号，同时进行多个传感器信号比对和选型。
+* 对原始数据进行预处理并设计算法对疲劳异常相关的数据模式进行甄别。 
+
+### __EPFL, Hemodynamics and Cardiovascular Technology Laboratory(LHTC) Lab__ [洛桑，瑞士] `2014.9 - 2015.9`
+_Research Assistant_<br>
+
+* 对血管瘤CT成像结果进行3D建模并实现病理学计算视觉CNN模型。
+* 负责血管瘤数据CT成像过程标注。
+* 调查研究并将CNN模型引入到组内的研究过程中（组内之前一直使用传统图像处理方案）
+* 模型识别准确率超过70%， train set 800. 
+* Directed by Trachet Bram and Nikolaos Stergiopulos
+
+### __EPFL, Defitech Chair in Brain-machine Interface(CNBI) Lab__ [洛桑, 瑞士] `2014.1 - 2014.9`
+_Research Assistant_<br>
+* 对脑机接口脑电EEG中可预见性事件异常模式通过RNN模型进行异常识别.
+* Directed by Jose Del R.Millan
+
 
 <br>
 
-## Summary of Key Skills
-__Computer Vision__ 
-	| Object Detection | Panoramic Segmentation | Zero-shot Image Tasks | Cross-domain Transfer Learning |
-__Multimodal__ 
-	|Image-Text, Video Retrieval | Text-to-Image Generation | General Multimodal Solutions, such as CLIP, ALBEF, BeitV3 |
+## 京东健康工作细节 [ 2023.05 - now]
+### __脑科学项目__
+* 在健康人群中实现完整运动想象识别算法, 4类运动想象任务(左手,右手,双脚,舌头)，综合准确率水平75%, 超过2022年sota.
+* 通过与北京大学合作实现非侵入脑机接口癫痫脑电AI识别, 达到sota,实现约97.8%的特异性和99%的敏感性, 用于癫痫病人的自动识别和预警.
+* 建立公开的脑电想象和情绪数据集,在行业内达到top1规模.覆盖多模态数据.
 
-__LLM__
-	|Bert | GPT | promting engineering | scaling law |
+### __健康创新业务__
+* 完成无创血糖项目的建立,实现算法原理分析,并开展超过10家公司的外部调查,并促成技术合作项目.
+* 基于医院侧超大规模数据集完成多种病种的风险预测模型,有效性达到行业顶尖水平,在脑卒中,心血管脑血管疾病,糖尿病多个病种中实现风险评估.并开展了大规模应用.
 
-__AI Engineering__
-	|Data Engineering | Feature Engineering | Multi-framework | Edge Computing Deployment | Large Scale Online Deployment | Model Parallelization | Model Lightening |
-
-__Management Experience__
-	|Management experience in AI algorithm team and full-stack software team(frontend and backend) (4 years) | Full workflow from concept to R&D to product (8 years)| Close collaboration with academic teams in universities (4 years)|
-
-__Coding Skill__
-|Python | Torch | Tensorflow | C/C++ | Linux | Docker | Kubernetes | 
-
-
-## JD Health Work Details [ 2023.05 - now]
-### __Neuroscience Project__
-* Achieved a complete motion imagination recognition algorithm in a healthy population, 4 types of motion imagination tasks (left hand, right hand, both feet, tongue), with an overall accuracy level of 75%, surpassing the state-of-the-art in 2022.
-* Cooperated with Peking University to realize non-invasive brain-computer interface epilepsy EEG AI recognition, reaching the state-of-the-art, achieving about 97.8% specificity and 99% sensitivity, used for automatic recognition and warning of epilepsy patients.
-* Established a public brainwave imagination and emotional dataset, reaching the top 1 scale in the industry. It covers multi-modal data.
-
-### __Physical Examination Center Business__
-* Completed basic intelligent guide inspection functions, achieved evaluation of consulting room queue speed, and provided real and effective individual queue predictions; also attempted to provide optimized queue suggestions. Improved the maximum total reception of the health examination center by more than 30%.
-* Using LLM and classic NLP technology, realized intelligent general inspection function, built an inspection entry list based on the inspection entry knowledge base, and matched the knowledge base. The efficiency of the health examination doctors has been improved by about 40%.
+### __体检中心业务__
+* 完成智能导检基础功能,实现诊室排队速度评估,并给出真实有效的单体排队预测; 并尝试给出优化的排队建议. 提升体检中心的极限总接待量超过30%. 
+* 使用LLM技术,训练场景下大语言, 实现智能总检功能,在检验词条知识库基础上构建检查词条条目列表,并配套知识库.实现体检医生效率提升约40%. 
   
-### __Health Innovation Business__
-* Completed the establishment of a non-invasive blood glucose project, carried out algorithm principle analysis, conducted external surveys of more than 10 companies, and promoted technology cooperation projects.
-* Based on the super-large data set on the hospital side, several disease risk prediction models were completed, and the effectiveness reached the industry's top level. Risk assessments were carried out in multiple diseases such as stroke, cardiovascular and cerebrovascular diseases, and diabetes, and large-scale applications were launched.
 
-## Linkedcare Work Content Details [ 2022.06 - 2023.05]
 
-### __Tooth Correction Simulation Algorithm for Doctor-Patient Communication__
-* Rapid and accurate tooth correction simulation function, completed the selection, customized training, and local engineering work at the initial stage of the release of stable diffusion (August 2022).
-* Conducted in-depth research on the diffusion family generative network, guiding the design and architecture of new model structures and constraints suitable for current tasks, enabling the generative model effectiveness to reach commercial standards.
-  
-### __Full Jaw Visualization System Function, Algorithm Side Architecture__
-* Implemented and optimized instance segmentation algorithms based on Cone Beam CT data (3D point cloud).
-* High-precision registration fusion of multi-sensor data, data sources include (CBCT, laser scanning, RGB images, CT). By mastering a large amount of oral anatomy knowledge, high-precision registration work that exceeds the industry's highest level was achieved.
-* During the progress, a fundamental problem that no one in the industry has yet solved was found, and research experts within the team coordinated with professional professors in the industry for joint research.
+## 领健工作内容细节 [ 2022.06 - 2023.05]
 
-### __Examples of Algorithm Applications in Product Commercialization__
-* Registered users' three-dimensional scanning data of teeth at different times, analyzed the match between morphological progress and commercial treatment plans, and solved an important pain point in commercialization (the restart rate issue of invisible correction).
-* Established a complex mechanical simulation scheme, analyzed the relationship between jawbone and tooth root structure during treatment, used for product risk warning and control.
-* Based on large-scale data and rigid logic rules, the automated tooth correction algorithm architecture design was carried out, coordinating the algorithm, medical, and software teams successfully integrated the new algorithm into the existing mature commercialization process, used to greatly improve the work efficiency of human designers. In the case of serving the same number of customer service requirements every day, the total number of required designers has decreased by three times.
+### __医患沟通用牙齿矫正模拟算法__
+* 快速精确的牙齿矫正模拟功能,在stable diffusion发布的最初阶段(2022年8月)即完成选型,定制化训练和本地工程化的工作.
+* 针对diffusion族生成式网络进行深入研究,指导设计和架构适用于当前任务的新模型结构和约束，使得生成式模型有效性达到商用标准。
 
-### __Comprehensive Platform for Medical Image Recognition Tasks__
-* Architected a comprehensive task platform for various AI work on diverse two-dimensional medical image data.
-* Implemented multi-modal retrieval capabilities (using text to search images).
-* Implemented general image rapid classification work, landing as an internal service, allowing data engineers to quickly customize training classification networks from it.
-* Designed and architected a professional data system for medical images, including professional annotation software for medical use, data retrieval system, helping to provide data sources on multiple different data and tasks.
-* Implemented function: Xray lateral film feature point positioning, special tissue segmentation, accuracy reaches the industry's top level, benchmarking other professional software in the industry.
-* Implemented function: In the Xray panoramic film data, more than 20 different tissue structures semantic segmentation, super-resolution segmentation, small target structure positioning, pathological stage diagnosis of the same type of tissue, diagnostic reliability (recall-94%), reaching the industry's top level, surpassing many commercialized landing solutions, on par with the level of professional doctors.
-* Implemented function: Supports the rapid classification, deployment, and implementation of all types of data in Leading Health at the millisecond level, supporting the daily data intelligent archiving needs of thousands of users.
+### __全颌可视化系统功能,算法侧架构__
+* 基于锥形束CT数据(3D点云)的实例分割算法落地和研究优化.
+* 多传感器数据高精度配准融合工作,数据源包括(CBCT,激光扫描,RGB图像,CT).通过掌握大量口腔解剖学知识,实现了超过业内最高水平的高精度的配准工作.
+* 进展中发现了业内暂无人解决的基础性问题,协调组内的研究专家与业内专业教授联合研究。
 
-### __Architecture of Professional Medical Computer-Aided Diagnosis (CAD) Platform__ 
-* Cooperated with professional medical experts, digested different demand lists in the industry.
-* Integrated the demand list and parsed it into different algorithm toolchains according to the demand.
-* Basic feature point positioning algorithm, used for key medical anatomy-related feature point positioning functions on various modalities, used to output basic information for subsequent diagnostic measurements.
-* RGB image data basic algorithm, including face recognition, various target recognition and instance segmentation of intraoral photos.
-* Xray data basic algorithm, including lateral film, panoramic film, positive film various target recognition and instance segmentation.
-* Cross-modal data fusion basic algorithm, which can effectively fuse the above three types of data, used for collaborative analysis of different modalities data, used to output in different diagnostic scenarios.
+### __算法在产品商业化上的应用实例__
+* 配准用户多次不同时间段的牙齿三维扫描数据，分析形态进展与商业治疗计划的匹配性，解决商业化上的一个重要痛点（隐形矫正的重启率问题）
+* 建立复杂的力学仿真方案，分析治疗过程中的颌骨和牙齿牙根结构之间的关系，用于产品的风险预警和管控。
+* 基于大规模数据和硬性逻辑规则进行自动化的牙齿矫正算法架构设计，协调算法、医学、软件三个团队成功将新算法融合到现有成熟的商业化流程中，用于大幅提升人类设计师的工作效率，在服务于每天同样多的客服需求情况下，所需设计师总数量下降三倍。 
+
+### __医疗影像识别任务综合平台__
+* 架构一个全面的任务平台,用于多样的二维医疗影像数据的各类AI工作
+* 实现多模态检索能力(使用文本搜索图像)
+* 实现一般性的图片快速分类工作,落地成为内部服务,使得数据工程师可以从中快速自定义训练分类网络
+* 设计和架构面向医疗影像的专业数据系统,包括医用的专业标注软件、数据检索系统，帮助在多个不同数据和任务上提供数据源
+* 实现功能：Xray侧位片特征点定位，特殊组织分割，精确率达到行业内顶尖水平，对标行业内其他专业软件
+* 实现功能：Xray全景片数据中，超过多达20种不同组织结构语义分割，超分辨率分割，细小目标结构定位，同类型组织的病理学阶段诊断，诊断可靠度（recall-94%），达到业内顶尖，超过很多已经商业化落地方案,与专业医生水平持平。
+* 实现功能：支撑全部领健各类型数据的快速分类，部署，实现在毫秒级别的部署，支撑几千家用户的日常数据智能归档需求。
+
+### __架构专业的医用计算机辅助诊断(CAD)平台__ 
+* 与专业医学专家合作,消化行业内不同的需求列表.
+* 综合需求列表,并根据需求解析成不同的算法工具链. 
+* 特征点定位基础算法，用于在各类模态上进行关键的医用解剖学相关的特征点定位功能，用于为后续的诊断测量输出基础信息。
+* RGB图像数据基础算法，包括人脸识别，口内照片的各类目标识别和实例分割
+* Xray数据基础算法，包括侧位片，全景片，正位片的各类目标识别和实例分割
+* 跨模态数据融合基础算法，能够有效融合上述三类数据，用于不同模态数据的协同分析工作，用于在不同的诊断场景下进行输出。
 
 <div STYLE="page-break-after: always;"></div> 
 
-## Lingteng Work Content Details[ 2019.05 - 2022.05] 
+## 翎腾工作内容细节 [ 2019.05 - 2022.05] 
 
-### __Autonomous Perception Robotic Arm Project__ `2022 @Lingteng`
+### __机器人自主感知机械臂项目__ `2022 @翎腾`
 
-* Research on the autonomous grasping perception capability of the robot arm based on visual feedback and mechanical feedback.
-  * Multimodal understanding of visual data, designed to use CLIP and ALBEF multimodal frameworks to complete the retrieval of objects in the video stream.
-  * The retrieval comes from the text stream, preparing for the future direct connection to voice control. It connects the cross-modal channels between voice, text, images, and action understanding.
-  * Uses the Mujoco framework to build the mechanical simulation environment, and Unreal Engine to build the visual simulation environment.
-  * The visual (Unreal) and mechanical environment (Mujoco) communicate synchronously, enabling the deep reinforcement learning agent to simultaneously obtain feedback data in both environments.
-  * Studies the transfer problem from the virtual environment to the real environment and designs a complete transfer scheme so that the agent can apply the knowledge learned in the virtual environment in the real environment.
+* 机器人机械臂基于视觉反馈和力学反馈的自主抓握感知能力研究
+  * 视觉数据的多模态理解,设计使用CLIP和ALBEF多模态框架完成视频流中的物体的检索
+  * 检索来源于文字流,为未来直接接入语音控制做准备.打通语音,文字,图片,动作理解之间的跨模态通道
+  * 使用mujoco框架来搭建其中的力学仿真环境,使用虚幻引擎搭建视觉仿真环境
+  * 视觉(虚幻)和力学环境(mujoco)与通过同步通信,使得深度强化学习的agent可以同步在两个环境中获取反馈数据
+  * 研究从虚拟环境到真实环境的迁移问题,并设计一套完整的迁移方案,使得agent可以在虚拟环境中学习到的知识可以在真实环境中得到应用
 
-* Robot 3D Vision Function
-  * Familiar with and follow up on the cutting-edge trends in robot 3D vision R&D (stereoscopic, monocular, until 2022.05).
-  * Independently design a complete robot simulation vision environment based on Unreal Engine and deploy reinforcement learning.
-  * Complete architecture and design of a brand new visual perception system.
-  * Design a brand new architecture based on Transformer and CNN neural network structure, to implement a neural network for processing video stream understanding and data modality transformation.
-  * Complete all data chain construction, framework construction, algorithm training, algorithm quantization, and deployment to embedded devices for edge computing, giving the robot visual perception capabilities.
+* 机器人3D视觉功能
+  1. 熟悉和跟进机器人3D视觉研发前沿潮流（双目，单目，till 2022.05）
+  2. 独立设计完善的基于虚幻引擎的机器人仿真视觉环境。并部署强化学习
+  3. 完整架构和设计全新的视觉感知系统
+  4. 设计全新架构基于transformer和CNN的神经网络结构,实现处理视频流理解和数据模态转换的神经网络
+  5. 完成全部的数据链搭建，框架搭建，算法训练，算法量化，嵌入式终端部署工作，为机器人赋予视觉感知能力
 
-### __Intelligent Reading Learning Device Based on Computer Vision__ `2019,2020,2021 @Lingteng`
+### __基于计算机视觉的智能阅读学习设备__ `2019,2020,2021 @翎腾`
 
-* Design a complete computer vision and NLP algorithm framework, complete all algorithm model selection, architecture design, training, lightweight, and deployment to embedded devices for edge computing in the work chain.
-* Full-scene OCR function, supports more than 20 types of printed text, supports handwriting recognition in English and Chinese.
-* Handwriting recognition accuracy level benchmarks Tencent YouTu, as of 2020.10, printed text recognition accuracy level exceeds 99%, benchmarks most of the OCR solutions in the industry (Baidu, Tencent, iFlytek, as of 2021.03).
-* Different trigger object recognition is applied in the function trigger module, and the video stream understanding algorithm architecture is introduced, so that the system can cover more task scenes while ensuring accurate understanding of users, achieving one device covering all reading scenes.
-* The main task scenes include word reading, interactive multi-word or sentence reading and translation, handwriting process tracking, handwriting content understanding, multi-finger gestures, and so on.
+* 设计完整的计算机视觉和NLP算法框架,完成工作链中全部算法模型选型,架构设计,训练,轻量化,并部署到嵌入式设备中进行边缘运算
+* 全场景OCR功能,支持超过20种印刷体文字,支持手写体英文和中文识别
+* 手写体准确率水平对标腾讯优图，2020.10,印刷体准确率水平超过99%，对标业内绝大部分的OCR方案（百度，腾讯，科大讯飞,2021.03）
+* 功能触发模块应用不同的触发物体识别,同时引入视频流理解算法架构,使得系统可以在保证对用户理解准确性的同时覆盖更多的任务场景,做到一种设备覆盖全部阅读场景.
+* 主要的任务场景包括单词点读,交互式的多词或句子点读和翻译,手写过程跟踪,手写内容理解,多指手势等等.
 
 
-### __Personal Core Research Direction__ `2019,2020,2021 @Lingteng`
+### __个人核心研究方向__ `2019,2020,2021 @翎腾`
 
-* CV tasks of zero-shot solutions, such as CLIP, Moco and other contrast learning or unsupervised learning solutions.
-* Cross-domain gap, following up on data enhancement, transfer learning, multi-task learning, domain adaptive learning.
-* Downstream tasks such as object detection, panorama segmentation, ReID, specific networks include DETR, SwinTransformer, MAE, yolo(v5,v3,yolox), centernet, Efficient-det, MaskRCNN, etc.
-* Object recognition based on temporal dynamic video data.
-* Object recognition based on spatial data of 3D data, ACVNet, PointNet++.
-* Understanding and fusion of multimodal data.
-
-### __Algorithm Applications in Product Commercialization__ `2019,2020,2021 @Lingteng`
-
-* Intelligent Hardware for Reading Learning Scenarios (Desk Lamps, Reading Devices)
-  * Reading assistance, word recognition function
-  * Interactive tracking line word sentence recognition function
-  * Handwriting process tracking and handwriting content understanding
-  * Automatic excerpt function with two-finger interaction
-  * Three generations of hardware iteration upgrades for the entire product line, with a total shipment volume of about 100,000+
-
-* Education Assistance Scenarios (Automatic Correction Device for Teachers)
-  * Automatic recognition of precise page range algorithm
-  * Automatic recognition of page information algorithm (book information and page number)
-  * Complete automatic grading function for conventional exercise book system
-  * Fine content separation algorithm for conventional exercise book system
-  * Supported over 30,000+ education system users, with daily active users exceeding 1,000+ people.
+* zero-shot方案的CV任务, 如CLIP,Moco等对比学习或无监督学习方案.
+* cross-domain gap,跟进数据增强,迁移学习,多任务学习,域自适应学习.
+* 目标检测、全景分割、ReID等下游任务，具体网络包括DETR, SwinTransformer,MAE,yolo(v5,v3,yolox),centernet,Efficient-det,MaskRCNN等
+* 基于时序的动态视频数据下的目标识别 
+* 基于空间数据的3d数据的目标识别,ACVNet,PointNet++
+* 多模态数据的理解和融合
   
-### __Deep Learning Data System__ `2019,2020,2021 @Lingteng`
+### __深度学习数据系统__ `2019,2020,2021 @翎腾`
 
-* Built a complete data collection and real-machine testing system
-  * Used simulation devices on the embedded end for data collection and offline data management
-  * The collection system automatically collects and records data, and uploads them automatically
-  * The system also allows collection personnel to complete real-machine design scenario testing
+* 搭建完整的数据采集和实机测试系统-在嵌入式端使用模拟设备进行数据采集和离线数据管理
+* 开发数据标注系统 - 多功能,完全自动化,全远程化功能
 
+* 数据分发系统-自动更新标准测试数据库,提高系统效率
 
-* Designed and guided the development of a data annotation system
-  * Adapted to multi-functional annotation tasks
-  * Fully automated configuration scheme
-  * A completely online system that can remotely carry out data annotation work
+### __深度学习部署系统__ `2019,2020,2021 @翎腾`
 
-* Designed and guided a data distribution system
-  * Annotated data are automatically distributed to algorithm development engineers with the corresponding permissions, improving development efficiency
-  * The standard test database is automatically updated to effectively follow up on development progress.
+* 服务端移植综合方案 - 研发完整的线上部署方案(MLOps)
 
-### __Deep Learning Deployment System__ `2019,2020,2021 @Lingteng`
-
-* Comprehensive server-side porting scheme
-  * Designed and guided the development of a complete online deployment scheme (MLOps)
-  * The server-side scheme effectively implements complete inference automation, greatly improving the efficiency of the algorithm engineer's algorithm implementation on the server-side
-  * Algorithm engineers can port and run anywhere on the PC platform with only the code, which is convenient for quick testing and verification, and has version control
-  * The deployment scheme also has algorithm metric verification function, which can automatically run specific testing mechanisms online.
-
-* Comprehensive porting scheme for embedded end and device end
-  * Carried out deep learning algorithm porting work for different hardware device providers (Intel, Rockchip, Google, Yizhi)
-  * Used the corresponding algorithm framework (tflite, NCNN, MNN) for deep learning algorithm porting for Android or IOS systems
-  * Commonly used model frameworks include TensorFlow, PyTorch, ONNX, Paddle-Paddle
-  * Fully supported model conversion, parameter quantization, accuracy guarantee and other issues during the porting process, successfully carried out more than 30 different framework different calculation scale algorithm embedded porting.
-
-## Additional Experience Details [ 2015 - 2019.4]
+* 嵌入式端和设备端移植综合方案
+  1. 针对不同的硬件设备提供商（Intel, Rockchip瑞芯微, google, 亿智）进行深度学习算法的移植工作
+  2. 针对安卓系统或者IOS系统使用相应的算法框架（tflite, NCNN, MNN）进行深度学习的算法移植
+  3. 常规使用的模型框架包括 tensorflow, pytorch, onnx, paddle-paddle.
+  4. 完整支撑移植过程中的模型转化、参数量化、精确度保证等问题，成功进行超过30个不同的框架不同计算规模算法的嵌入式移植。
 
 
-### __AI Recognition Detection System Related to Human Movement Physiology__ `2020，2021 @FIZZO`
-
-* VAD Emotion Recognition System Based on Heart Rate Variability
-* Scientific Sleep Detection System Based on Multiple-Lead Detection System
-* Stress Recognition System Based on Heart Rate and Heart Rate Variability
+## 其他经验细节 [ 2015 - 2019.4]
 
 
-### __AI Recognition Detection System for Exercise Physiology Indicators__ `2018,2019 @FIZZO`
+### __人类运动生理相关人工智能识别检测系统__ `2020，2021 @第五区`
 
-* Independently developed three core algorithms of the system
-  * Heart Rate Variability (HRV) calculation algorithm based on Photoplethygraph (PPG) technology, achieving the same accuracy level as traditional ECG technology, and integrated into embedded software.
-  * Deep learning sleep analysis system based on LSTM, effectively identifying various sleep processes.
-  * Athlete's daily exercise level assessment algorithm based on the embedded end.
-* Collaborated with the embedded software team for embedded end algorithm deployment.
-* Defined data flow and data structure levels with the back-end team and implemented online analysis algorithm deployment.
+* 基于心率变异性的VAD情绪识别系统
+* 基于多导检测系统的科学睡眠检测系统
+* 基于心率和心率变异性的压力识别系统
 
 
+### __人工智能运动生理指标识别检测系统__ `2018,2019 @第五区`
 
-### __Audio Recognition Based on Artificial Neural Networks 2018__ `2018`
-* Audio spectrum analysis based on CNN and audio target recognition based on RNN
-* Established a universal framework for use in other machine learning tasks within the algorithm department.
-* Responsible for all development details of the project:
-  * Organized relevant audio recognition knowledge and experience, designed data flow
-  * Designed data collection experiments and calibration engineering
-  * Wrote GUI data collection tools and guided the experimental department in collection
-  * Data preprocessing process (automatic data event marking, basic feature extraction)
-  * Framework selection and local configuration
-  * Design of the core structure of the algorithm
-  * Defined evaluation criteria and parameter adjustment
-  * Executed online model deployment
-
-### __Systematic Design and Integration of Complete Algorithms for Wearable Devices__ `2016,2017 @FIZZO`
-
-* Long-term role as the main algorithm engineer, performing systematic design of various algorithms for wearable devices (bracelet form) and closely collaborating with embedded software engineers to complete all algorithm integration work.
-* The algorithms inside the wearable device mainly include:
-  * Multi-scenario automatic mode recognition algorithm based on the collaboration of multiple sensors.
-  * Exercise scene data informationalization algorithm: includes dynamic long-term heart rate algorithm, high-precision pedometer frequency algorithm, exercise intensity level monitoring, and danger warning algorithm.
-  * Basic heart rate variability algorithm (based on PPG photoelectric sensor)
-  * Functional algorithms for wearable device form, including wrist-raising screen activation and wear-off detection, etc.
-
-### __Design and Development of Driver Fatigue Anomaly Warning System Based on Non-contact ECG__ `2015 @PSA`
-* Independently designed and established an experimental system for collecting relevant electrophysiological signals, and conducted signal comparison and selection for multiple sensors.
-* Preprocessed the original data and designed algorithms to identify data patterns related to fatigue anomalies.
-
-## Academic Research Experience
-
-### __EPFL, Hemodynamics and Cardiovascular Technology Laboratory(LHTC) Lab__ [Lausanne, Switzerland] `2014.9 - 2015.9`
-_Research Assistant_<br>
-
-* Developed 3D modeling for CT imaging results of aneurysms and implemented a pathological computational vision CNN model.
-* Responsible for annotating the CT imaging process of aneurysm data.
-* Introduced the use of CNN models into the group's research process (the group had previously used traditional image processing solutions).
-* Achieved a model recognition accuracy rate of over 70% with a training set of 800.
-* Directed by Trachet Bram and Nikolaos Stergiopulos
-
-### __EPFL, Defitech Chair in Brain-Machine Interface(CNBI) Lab__ [Lausanne, Switzerland] `2014.1 - 2014.9`
-_Research Assistant_<br>
-* dentified anomalies in predictable event patterns in brain-computer interface EEGs using an RNN model.
-* Directed by Jose Del R.Millan
-
-<br>
+* 独立开发系统三部分核心算法
+  1. 基于Photoplethygraph(PPG)技术的心率变异性水平计算算法，获得与传统ECG技术相同的准确度水平，并集成在嵌入式软件中。
+  2. 基于LSTM的深度学习睡眠线上分析系统，有效甄别各类睡眠过程。 
+  3. 基于嵌入式端的运动员日程运动量水平评估算法
+* 与嵌入式软件团队配合进行嵌入式端算法部署实现。
+* 与后端团队共同定义数据流和数据结构水平，并进行线上分析算法部署实现。
 
 
-## Personal Statement
+### __基于人工神经网络的音频识别__ `2018`
+* 基于CNN的音频谱分析和RNN的音频目标识别
+* 建立普适性框架用于算法部门内部其他机器学习任务使用。
+* 负责整个项目的全部开发细节：
+  1. 整理相关音频识别知识和经验，设计数据流
+  2. 设计数据采集实验和标定工程 
+  3. 编写GUI数据采集工具，并指导实验部门进行采集
+  4. 数据预处理过程（数据事件自动标记，基础特征提取）
+  5. 框架选择和本地配置
+  6. 算法核心结构设计
+  7. 制定评估准则并进行参数调整
+  8. 执行线上模型部署
 
-I have been conducting research in deep learning since 2013, focusing on computer vision and multimodal deep learning. At the same time, I have extensive experience in medical imaging and digital signal processing related engineering products. I have worked at the global R&D headquarters of Citroën (PSA) in Paris, France, and the Swiss National Microsystems R&D Center (CSEM). After returning to China, I have been involved in multiple startup projects, always committed to building the bridge between cutting-edge research and product engineering.
+### __可穿戴设备完整算法的系统化设计和集成__ `2016,2017 @第五区`
 
-I pay close attention to the research progress in the field of artificial intelligence, have rich experience in AI productization, and have the ability to conduct independent research and lead team research and engineering implementation. I have served as the technical leader and algorithm leader in multiple startups, with strong collaboration capabilities, a broad academic research perspective, comprehensive product thinking, and the ability to efficiently collaborate with product teams or CEOs to solve business product problems with appropriate cutting-edge technology and excellent architectural capabilities.
+* 长期作为主要算法工程师，进行可穿戴设备（手环形态）的各类算法的系统化设计。与嵌入式软件工程师紧密合作完成全部算法的集成工作
+* 可穿戴设备内算法主要包括:
+  * 基于多传感器合作下的多场景自动模式识别算法。
+  * 运动场景数据信息化算法: 包括动态长效心率算法，高精度计步步频算法，运动强度水平监控，危险预警算法。
+  * 心率变异性基本算法(基于PPG光电传感器)
+  * 可穿戴设备形态的功能性算法，包括抬腕亮屏和佩戴脱落检测等。
 
-I am very keen to apply the latest research results in practical scenarios. My personal work goal is to combine research and product practice to benefit more people. Therefore, I hope to join an innovative company or research team, delve into the field of artificial intelligence, and use my professional knowledge and skills to create products with more social value.
 
-## Language
 
-__Chinese:__ Native language　|　　__English:__ Professional fluency　　|　　  __French:__ Basic, for daily reading only
+## 个人陈述
+
+　　我从2013年开始从事深度学习相关研究工作,主攻计算机视觉和多模态深度学习方向。同时也拥有丰富的医疗影像学和数字信号处理相关工程产品经验。曾任职于标志雪铁龙(PSA)全球研发总部(法国巴黎), 瑞士国家微电子研发中心(CSEM)，回国后投入多个创业项目，一直致力于搭建最前沿的研究与产品工程化之间的桥梁。
+
+　　我对人工智能领域的研究进展高度关注，拥有丰富的AI产品化经验，拥有独立研究以及带领团队研究和工程化落地的能力。任职多个创业公司的技术负责人和算法负责人，协作能力强大，学术研究视野广泛，产品思维全面，能够高效地与产品团队或者CEO协作，利用合适的前沿技术和出色的架构能力解决商业产品的问题。
+
+## 语言
+
+__中文:__ 母语　　|　　__英文:__ 专业熟练，工作常用语言（听说读写）　　|　　  __法文:__ 基础，仅日常阅读
 
